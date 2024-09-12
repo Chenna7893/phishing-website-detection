@@ -1,6 +1,6 @@
 # Phishing URL Detection 
-![image]("C:\Users\hi\OneDrive\Pictures\Screenshots\2024-07-03 (1).png")
-![image]("C:\Users\hi\OneDrive\Pictures\Screenshots\2024-07-03 (2).png")
+![image](https://1drv.ms/i/s!Avcl3pZvVy_Qrn0bbwRSk9I6KNyf?e=q8xsjI)
+![image](https://1drv.ms/i/s!Avcl3pZvVy_Qrn6y8PBoBb2LjzvP?e=boe9d9)
 
 ## Table of Content
   * [Introduction](#introduction)
