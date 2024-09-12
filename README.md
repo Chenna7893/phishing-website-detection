@@ -1,6 +1,6 @@
 # Phishing URL Detection 
 ![2024-07-03 (1)](https://github.com/user-attachments/assets/f51daa39-b496-4a1c-bc08-41183148078d)
-![image](https://1drv.ms/i/s!Avcl3pZvVy_Qrn6y8PBoBb2LjzvP?e=boe9d9)
+![2024-07-03 (2)](https://github.com/user-attachments/assets/4dde5839-bc95-4e02-b7d2-f2104d1b1876)
 
 ## Table of Content
   * [Introduction](#introduction)
